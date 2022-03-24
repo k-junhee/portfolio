@@ -115,7 +115,7 @@ button:focus {
 /* Icons */
 .icon {
 	display: inline-block;
-	width: 1rem;
+	width: 2rem;
 	height: 1rem;
 	fill: currentColor;
 }
@@ -126,7 +126,6 @@ button:focus {
 }
 
 .title {
-	text-transform: lowercase;
 	font-size: 1.35rem;
 	margin: 0;
 }
@@ -226,10 +225,9 @@ button:focus {
 }
 
 .section__title {
-	font-size: 10vw;
-	text-transform: lowercase;
+	font-size: 6vw;
 	margin: 0;
-	letter-spacing: -0.35vw;
+	letter-spacing: -0.5vw;
 	position: relative;
 	overflow: hidden;
 }
