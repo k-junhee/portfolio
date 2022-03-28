@@ -254,17 +254,17 @@ button:focus {
 	pointer-events: none;
 }
 
-/* .section__img-inner {
+.section__img-inner {
 	width: 100%;
 	height: 100%;
 	background-size: cover;
 	background-position: 50% 50%;
-} */
+}
 
-#vid1{
+/* #vid1{
 	width: 1130px;
 	height: 680px;
-}
+} */
 
 .section__facts {
 	padding: 2rem;
