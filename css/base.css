@@ -25,6 +25,7 @@ body {
 	--color-link-hover: #333;
 }
 
+
 /* Page Loader */
 .js .loading::before {
 	content: '';
@@ -260,6 +261,11 @@ button:focus {
 	background-position: 50% 50%;
 }
 
+#vid1{
+	width: 1130px;
+	height: 680px;
+}
+
 .section__facts {
 	padding: 2rem;
 	margin: 0;
@@ -364,7 +370,7 @@ button:focus {
 
 .section__more {
 	display: flex;
-	align-items: stretch;
+	align-items: flex;
 	overflow: hidden;
 }
 
