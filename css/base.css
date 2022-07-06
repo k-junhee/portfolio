@@ -234,8 +234,8 @@ button:focus {
   overflow: hidden;
 }
 
-#title2 {
-  font-size: 4.5vw;
+.kr_title {
+  font-size: 4vw;
   font-weight: bold;
   letter-spacing: -0.3vw;
 }
@@ -254,6 +254,7 @@ button:focus {
 
 .section__description-inner {
   display: block;
+  font-size: 22px;
 }
 
 .section__img {
